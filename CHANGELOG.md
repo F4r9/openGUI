@@ -1,5 +1,5 @@
 # openGUI
-openGUI is a platform that can launch everything in your computer
+# openGUI is a platform that can launch everything in your computer
 CHANGELOG:
 
 • The file is now 606KB tall.
