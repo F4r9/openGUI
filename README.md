@@ -1,2 +1,2 @@
-# openGUI
-openGUI is a platform that can launch everything in your computer
+# PineAI
+PineAI is a AI that can help you.
